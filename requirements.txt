@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+streamlit
+biopython
+python-dotenv
+matplotlib
+wordcloud
